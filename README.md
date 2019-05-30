@@ -1,6 +1,6 @@
 # BMI Calculator
 
-BMI Calculator with flutter
+BMI Calculator created with flutter
 
 ## Getting Started
 
